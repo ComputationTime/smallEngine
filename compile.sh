@@ -1,0 +1,2 @@
+/Users/lua/Code/AllLibs/VulkanSDK/1.3.243.0/macOS/bin/glslc shaders/simpleShader.vert -o shaders/simpleShader.vert.spv
+/Users/lua/Code/AllLibs/VulkanSDK/1.3.243.0/macOS/bin/glslc shaders/simpleShader.frag -o shaders/simpleShader.frag.spv
